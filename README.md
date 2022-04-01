@@ -4,7 +4,7 @@ Extensão que utiliza a API do Mercado Livre, que permite ver dados mais avança
 link da referencia: https://www.youtube.com/watch?v=nYXgC_onc9w
 
 <h3>Como utilizar</h3>
-</p> Basta abrir o seu navegador chrome e digitar chrome://extentions
+</p> Basta abrir o seu navegador chrome e digitar  chrome://extentions
 jogue a pasta <strong>ExtentionMLB<strong> ali dentro,
 depois ative o modo developer
 em seguida clique em carregar sem compactação
